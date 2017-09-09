@@ -1,5 +1,5 @@
-# rosa-syntax theme
+# rosa-syntax
 
-A short description of your theme.
+A rustic syntax theme for [Atom](https://atom.io/) with colors based on Pixies' *Surfer Rosa*
 
-![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
+![Screenshot](http://mazz.io/images/rosa-syntax.png)
