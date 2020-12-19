@@ -11,7 +11,7 @@
     "syntax",
     "theme"
   ],
-  "repository": "https://github.com/mazzzz/rosa-syntax",
+  "repository": "https://github.com/flavormingo/rosa-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
