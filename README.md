@@ -2,4 +2,4 @@
 
 A *Surfer Rosa* syntax theme for [Atom](https://atom.io/)? Oh My Golly!
 
-![Screenshot](http://mazzzz.com/img/rosa-syntax/screenshot.png)
+![Screenshot](http://mazz.tv/img/rosa-syntax/screenshot.png)
